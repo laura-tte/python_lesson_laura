@@ -1,4 +1,4 @@
 ## Python Lesson
 
-Author: Laura Meier
+Authors: Laura Sophie Meier, Vanessa Gabriel
 
