@@ -1,4 +1,6 @@
 ## Python Lesson
 
-Authors: Laura Sophie Meier, Vanessa Gabriel
+Some files of a short introduction to Python.
+
+Author: L. Meier
 
